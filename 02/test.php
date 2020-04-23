@@ -11,7 +11,7 @@
       $zahl2 = 9;
       $zahl3 = $zahl1 % $zahl2;
       echo $zahl3;
-
+      echo $zahl2;
     ?>
 
   </body>
